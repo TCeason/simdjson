@@ -191,7 +191,7 @@ var NAVTREEINDEX =
 "annotated.html",
 "classsimdjson_1_1_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1object.html#aef6872e07743217fe2e2abe790a21d4c",
 "classsimdjson_1_1dom_1_1object_1_1iterator.html#a83b3c467632c017400f95ff05d2367b3",
-"logger-inl_8h.html#aa865485894cf54a1b59bca4c940920fd",
+"logger-inl_8h.html#a1b9952154ae0172530a16854ff005d92",
 "namespacesimdjson_1_1_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand.html#ae52a82c2f754a47eb9dac12223b3311d",
 "structsimdjson_1_1simdjson__result_3_01_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1object_01_4.html#a86945d1c1c36bc51dd8a18e8ee9c0c18"
 ];
